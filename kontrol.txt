@@ -4,5 +4,5 @@ e : ngambil barang
 i :inventory dan kalo milih item tar itemnya kepake
 d : nunjukkin iventory dan kalo milih item ntar didrop itemnya
 c : stas
-< : turun tangga kalo lagi diatas ikon tangga
-
+shift+, (koma) : turun tangga kalo lagi diatas ikon tangga
+mouse bisa dipake untuk nge ngasi tahu objek apa yg ditunjuk mous
