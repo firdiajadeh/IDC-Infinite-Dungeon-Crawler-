@@ -1,0 +1,8 @@
+arrow keys sama numpad buat gerak
+
+e : ngambil barang
+i :inventory dan kalo milih item tar itemnya kepake
+d : nunjukkin iventory dan kalo milih item ntar didrop itemnya
+c : stas
+< : turun tangga kalo lagi diatas ikon tangga
+
